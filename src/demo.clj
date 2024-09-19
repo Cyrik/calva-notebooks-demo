@@ -1,8 +1,9 @@
 (ns demo
   (:require [portal.viewer :as v]))
 
-(comment
+"https://github.com/Cyrik/calva-notebooks-demo"
 
+(comment
   {::ratio 22/7
    ::long 4611681620380904123
 
